@@ -13,3 +13,11 @@ Clone the repository and install dependencies:
 git clone https://github.com/4yzz/text-encrypter.git
 cd text-encrypter
 python -m pip install -r requirements.txt
+
+---
+
+## 🚀 Usage
+
+### 🔑 Generate key
+```bash
+python text_encrypter.py --generate
