@@ -16,7 +16,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-### 🚀 Usage
+## 🚀 Usage
 
 ### 🔑 Generate key
 ```bash
