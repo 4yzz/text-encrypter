@@ -1,0 +1,14 @@
+[project]
+name = "text-encrypter"
+version = "0.1.0"
+authors = [{ name="4yzz" }]
+description = "A simple tool to lock and unlock text using Fernet encryption"
+readme = "README.md"
+license = "MIT"
+dependencies = ["cryptography", "rich"]
+
+[project.scripts]
+text-encrypter = "text_encrypter:main"
+
+[project.urls]
+Homepage = "https://github.com/4yzz/text-encrypter"
