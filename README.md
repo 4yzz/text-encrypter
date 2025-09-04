@@ -25,3 +25,12 @@ python -m pip install -r requirements.txt
 
 # Decrypt text
 > python text_encrypter.py --decrypt --text "gAAAAABk..."
+
+# Encrypt file
+> python text_encrypter.py --encrypt --file secret.txt
+
+# Decrypt file
+> python text_encrypter.py --decrypt --file secret.txt.enc
+
+# Use custom key
+> python text_encrypter.py --encrypt --file secret.txt --key my_custom.key
