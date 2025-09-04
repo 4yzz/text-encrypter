@@ -18,6 +18,9 @@ python -m pip install -r requirements.txt
 
 ### 🚀 Usage
 ```bash
+# Help
+> python text_encrypter.py --help
+
 # Generate key
 > python text_encrypter.py --generate
 
