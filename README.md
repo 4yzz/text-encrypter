@@ -35,5 +35,6 @@ python -m pip install -r requirements.txt
 # Use custom key
 > python text_encrypter.py --encrypt --file secret.txt --key my_custom.key
 ```
-# Documentation
-https://cryptography.io/en/latest/fernet/
+# 📄 Documentation
+[Fernet](https://cryptography.io/en/latest/fernet/)
+
