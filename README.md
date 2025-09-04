@@ -22,3 +22,6 @@ python -m pip install -r requirements.txt
 
 # Encrypt text
 > python text_encrypter.py --encrypt --text "hello"
+
+# Decrypt text
+> python text_encrypter.py --decrypt --text "gAAAAABk..."
