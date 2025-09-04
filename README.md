@@ -1,7 +1,8 @@
 # 🔐 Text Encrypter
 A simple tool to lock and unlock text or files using Fernet encryption.
 
-<img width="958" height="188" alt="80e6070d-1bbd-4d85-b7ee-bdf4d75b7030" src="https://github.com/user-attachments/assets/5c853481-eec4-4367-9815-1d06cb29ee7c" />
+<img width="958" height="182" alt="image" src="https://github.com/user-attachments/assets/67f92a28-d404-4493-906e-6cefb0802830" />
+
 
 
 ---
