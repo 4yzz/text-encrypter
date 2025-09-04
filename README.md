@@ -6,7 +6,7 @@ A simple tool to lock and unlock text or files using Fernet encryption.
 
 ---
 
-## 📦 Installation
+### 📦 Installation
 Clone the repository and install dependencies:
 
 ```bash
@@ -16,7 +16,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+### 🚀 Usage
 
 ### 🔑 Generate key
 ```bash
