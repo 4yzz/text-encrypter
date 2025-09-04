@@ -1,4 +1,3 @@
-```bash
 # 🔐 Text Encrypter
 A simple tool to lock and unlock text or files using Fernet encryption.
 
@@ -38,4 +37,4 @@ python -m pip install -r requirements.txt
 ```
 # 📄 Documentation
 [Fernet](https://cryptography.io/en/latest/fernet/)
-```
+
