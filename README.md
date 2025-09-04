@@ -11,8 +11,7 @@ git clone https://github.com/4yzz/text-encrypter.git
 cd text-encrypter
 python -m pip install -r requirements.txt
 
-
-## 🚀 Usage
+##🚀 Usage
 
 ### 🔑 Generate key
 ```bash
