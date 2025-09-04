@@ -15,7 +15,7 @@ cd text-encrypter
 python -m pip install -r requirements.txt
 ```
 
-## 🚀 Usage
+### 🚀 Usage
 ```bash
 # Generate key
 > python text_encrypter.py --generate
