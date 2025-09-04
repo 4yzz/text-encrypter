@@ -19,3 +19,6 @@ python -m pip install -r requirements.txt
 ```bash
 # Generate key
 > python text_encrypter.py --generate
+
+# Encrypt text
+> python text_encrypter.py --encrypt --text "hello"
